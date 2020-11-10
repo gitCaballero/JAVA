@@ -1,1 +1,2 @@
 # JAVA
+# Simple API Rest implementando una autorización básica (BA) empleando credenciales almacenadas en el servidor LDAP sobre un archivo .ldif. Dentro de las tecnologias usadas se encuentran Spring Security, Spring Web y LDAP. El objetivo de este ejemplo es demostrar de forma simple y concreta como seria posible manipular datos de LDAP y realizar una autorización básica usando las propias credenciales almacenadas en el mismo servidor LDAP.
